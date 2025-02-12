@@ -46,3 +46,4 @@ Test;
 // A map is an object that contains key value pairs eg. var zoo = new Map(); zoo.set('Zebra',5), In this case Zebra is the key, and 5 is the value.
 // A map is more efficient than an array if when we know what we are looking for.
 // myMap.set()
+//test 2
